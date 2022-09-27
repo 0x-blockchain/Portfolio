@@ -1,0 +1,71 @@
+/* Inter */
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/fonts/inter/Inter-Regular.woff2?v=3.19") format("woff2"),
+       url("/assets/fonts/inter/Inter-Regular.woff?v=3.19") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/fonts/inter/Inter-Italic.woff2?v=3.19") format("woff2"),
+       url("/assets/fonts/inter/Inter-Italic.woff?v=3.19") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/assets/fonts/inter/Inter-SemiBold.woff2?v=3.19") format("woff2"),
+       url("/assets/fonts/inter/Inter-SemiBold.woff?v=3.19") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/assets/fonts/inter/Inter-SemiBoldItalic.woff2?v=3.19") format("woff2"),
+       url("/assets/fonts/inter/Inter-SemiBoldItalic.woff?v=3.19") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/inter/Inter-Bold.woff2?v=3.19") format("woff2"),
+       url("/assets/fonts/inter/Inter-Bold.woff?v=3.19") format("woff");
+}
+@font-face {
+  font-family: 'Inter';
+  font-style:  italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/inter/Inter-BoldItalic.woff2?v=3.19") format("woff2"),
+       url("/assets/fonts/inter/Inter-BoldItalic.woff?v=3.19") format("woff");
+}
+
+/* Overpass Mono */
+@font-face {
+  font-family: 'Overpass Mono';
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/fonts/overpass/OverpassMono-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Overpass Mono";
+  font-weight: 600;
+  font-display: swap;
+  src: url("/assets/fonts/overpass/OverpassMono-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Overpass Mono";
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/overpass/OverpassMono-Bold.ttf") format("truetype");
+}
